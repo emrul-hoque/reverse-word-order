@@ -1,0 +1,15 @@
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\reverse-word-order.csproj.AssemblyReference.cache
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\reverse-word-order.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\reverse-word-order.AssemblyInfoInputs.cache
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\reverse-word-order.AssemblyInfo.cs
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\reverse-word-order.csproj.CoreCompileInputs.cache
+E:\Emrul\C#\repos\reverse-word-order\bin\Debug\net6.0\reverse-word-order.exe
+E:\Emrul\C#\repos\reverse-word-order\bin\Debug\net6.0\reverse-word-order.deps.json
+E:\Emrul\C#\repos\reverse-word-order\bin\Debug\net6.0\reverse-word-order.runtimeconfig.json
+E:\Emrul\C#\repos\reverse-word-order\bin\Debug\net6.0\reverse-word-order.dll
+E:\Emrul\C#\repos\reverse-word-order\bin\Debug\net6.0\reverse-word-order.pdb
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\reverse-word-order.dll
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\refint\reverse-word-order.dll
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\reverse-word-order.pdb
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\reverse-word-order.genruntimeconfig.cache
+E:\Emrul\C#\repos\reverse-word-order\obj\Debug\net6.0\ref\reverse-word-order.dll
